@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-IPT Programmer -> Technical Specialist -> FullStack & Flutter Developer -> Applications Systems Enginner
+IPT Programmer -> Technical Specialist -> FullStack & Flutter Developer -> Applications Systems Engineer
 
 - 🎩 Currently: Applications Systems Engineer at Weserv Systems Intenational, Inc
 - 🔭 I'm currently working on creating custom [Ansible Module](https://docs.ansible.com/ansible/2.9/modules/modules_by_category.html).
