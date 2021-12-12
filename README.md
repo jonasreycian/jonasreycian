@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-IPT Programmer -> Technical Specialist -> FullStack & Flutter Developer -> Applications Systems Engineer
+IPT Programmer -> Technical Specialist -> FullStack & Flutter Developer -> Applications Systems Engineer -> VueJS Developer
 
-- 🎩 Currently: Applications Systems Engineer at Fujitsu, Inc
-- 🔭 I'm currently working on creating custom [Ansible Module](https://docs.ansible.com/ansible/2.9/modules/modules_by_category.html).
+- 🎩 Currently: VueJS Developer at FullScale, Inc
+- 🔭 I'm currently working on building custom features and bugfixes on existing large-scale applications.
 
 #### 👯 I'm looking to collaborate on
 
