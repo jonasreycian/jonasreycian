@@ -27,9 +27,7 @@ IPT Programmer -> Technical Specialist -> FullStack & Flutter Developer -> Appli
 
 #### 🌱 I'm currently learning on
 
-- maximizing usage of WSL2
-- deploying projects via Docker
-- creating cross-platform mobile development using [Flutter](https://flutter.dev/).
+- developing full-stack cross-platform mobile development using [Flutter](https://flutter.dev/).
 - creating custom cryptocurrency trading bot system using [Freqtrade](https://freqtrade.io/).
 
 #### 📦 Blog
