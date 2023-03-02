@@ -124,7 +124,7 @@ Firebase, Vue, NodeJS, and Docker, passionate about delivering high-quality resu
 
 #### 📫 How to reach me
 
-🐦 [Twitter](https://twitter.com/jonasreycian) 👨‍💼 :facebook: [LinkedIn](https://www.linkedin.com/in/jonasreycian/) 👨‍💼 [Facebook](https://facebook.com/reycian)
+🐦 [Twitter](https://twitter.com/jonasreycian) 👨‍💼 [LinkedIn](https://www.linkedin.com/in/jonasreycian/) 👨‍💼 [Facebook](https://facebook.com/reycian)
 
 ---
 
