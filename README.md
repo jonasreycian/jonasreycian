@@ -24,12 +24,12 @@ Firebase, Vue, NodeJS, and Docker, passionate about delivering high-quality resu
 
 #### 📫 How to reach me
 
-Leave message on my [LinkedIn](https://www.linkedin.com/in/jonasreycian/)
+> Leave me message on my [LinkedIn.](https://www.linkedin.com/in/jonasreycian/)
 
 #### 👯 I'm looking to collaborate on
 
-- Creating packages / capstone in Flutter.
-- Creating custom crypto trading bot [Freqtrade](https://freqtrade.io/).
+- [x] Creating packages / capstone in Flutter.
+- [x] Creating custom crypto trading bot [Freqtrade](https://freqtrade.io/).
 
 ---
 
