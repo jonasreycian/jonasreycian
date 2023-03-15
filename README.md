@@ -15,22 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Flutter | Vue Developer
-
-#### 💬 About Me
-
-I'm an experienced software developer with 5+ years of expertise in building cross-platform and web applications. Skilled in Flutter,
-Firebase, Vue, NodeJS, and Docker, passionate about delivering high-quality results.
-
-#### 📫 How to reach me
-
-> Leave me message on my [LinkedIn.](https://www.linkedin.com/in/jonasreycian/)
-
-#### 👯 I'm looking to collaborate on
-
-- [x] Creating packages / capstone in Flutter.
-- [x] Creating custom crypto trading bot [Freqtrade](https://freqtrade.io/).
-
+- 👨 I’m Jonas.
+- 🔭 I’m currently working on a cross-platform application Travel app using Flutter and a Frontend Developer at my current company. 
+- 🌱 I’m currently learning on perfecting my craft on designing a Flutter application including the best practices.
+- 📫 Leave me message on my [LinkedIn.](https://www.linkedin.com/in/jonasreycian/)
 ---
 
 [![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=jonasreycian&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
