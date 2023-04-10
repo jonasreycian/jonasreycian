@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨 I’m Jonas.
-- 🔭 I’m currently working on a cross-platform application Travel app using Flutter and a Frontend Developer at my current company. 
-- 🌱 I’m currently learning on perfecting my craft on designing a Flutter application including the best practices.
+- 🔭 Currently working on a cross-platform application Travel app using Flutter and a Frontend Developer at my current company. 
+- 🌱 Currently learning on perfecting my craft on designing a Flutter application including the its practices.
 - 📫 Leave me message on my [LinkedIn.](https://www.linkedin.com/in/jonasreycian/)
 ---
 
